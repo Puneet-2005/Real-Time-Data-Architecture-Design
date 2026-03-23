@@ -40,7 +40,7 @@ C:\Users\punee\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install
 
 ### Step 2 — Go to project folder
 ```
-cd C:\Users\punee\OneDrive\Documents\makemytrip
+C:\Users\punee\Desktop\dashboard>
 ```
 
 ### Step 3 — Run the dashboard
