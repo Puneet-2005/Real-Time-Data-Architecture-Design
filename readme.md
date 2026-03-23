@@ -1,5 +1,5 @@
 # MakeMyTrip — Real-Time Dynamic Pricing Engine
-### Built by: Puneet | Submission: 24 Mar 2026
+### Built by: Puneet M P Bharadwaj | Submission: 24 Mar 2026
 
 ---
 
